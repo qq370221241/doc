@@ -7,7 +7,7 @@
 
 
 **请求URL：** 
-- 测试环境：` http://10.8.18.202:7886/api/share-merchant/apply`
+- 测试环境：` `
   
 **请求方式：**
 - POST 
